@@ -1,0 +1,24 @@
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\obj\Debug\Lab12.Form2.resources
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\obj\Debug\Lab12.Form3.resources
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\students.TEACH\Desktop\Lab12\Lab12\obj\Debug\Lab12.pdb
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\obj\Debug\Lab12.Form2.resources
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\obj\Debug\Lab12.Form3.resources
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\students.TEACH\Desktop\ОТВЕТ К 12 ЛАБЕ\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\СЮДА\Lab12\Lab12\obj\Debug\Lab12.pdb
